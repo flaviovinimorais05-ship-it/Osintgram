@@ -1,4 +1,4 @@
-name: lint_python
+name: taw.dias1
 on: [pull_request, push]
 jobs:
   lint_python:
